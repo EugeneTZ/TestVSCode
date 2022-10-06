@@ -1,0 +1,6 @@
+CREATE SCHEMA [wwxf]
+    AUTHORIZATION [dbo];
+
+
+GO
+

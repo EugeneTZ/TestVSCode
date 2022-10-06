@@ -1,0 +1,6 @@
+CREATE SCHEMA [DataCheck]
+    AUTHORIZATION [dbo];
+
+
+GO
+
